@@ -1,4 +1,4 @@
-This is a project which involves machine learning concepts. First step of making ML projects is to import data
+This is a project which involves Machine Learning concepts. First step of making ML projects is to import data
 from various .csv files. These files may contain databases with lots of data. Then we clean our data and separate
 the data into two segments. One for our training model, and other for testing it to make sure model produces right 
 result. This project is based on the library side kick learn. Python library used in this project is numpy which
